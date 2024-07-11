@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joy Chandra Das
 - 👀 I’m interested in Coding, Gaming, Travling
-- 🌱 I’m currently learning C#, Asp.Net Mvc, Mvc Core, Restful Api
+- 🌱 I’m currently learning C#, Asp.Net Mvc, Mvc Core, Restful Api, Angular 15+, MSSQL Server
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
